@@ -1,1 +1,5 @@
 learning git
+commands:
+git clone"github repository"
+git config --global user.name"github name"
+git config --global user.email"github email"
